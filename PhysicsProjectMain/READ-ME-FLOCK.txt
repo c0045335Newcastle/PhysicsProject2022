@@ -1,0 +1,2 @@
+Flocking can be enabled/disabled within the GameManager gameobject.
+Simply tick/untick the Flock script!
